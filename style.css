@@ -12,7 +12,7 @@ height: 100vh;}
 
 .preto {background-color: rgb(212 64 1); text-align: right;}
 .preto1 {background-color: rgb(212 64 1); }
-.cor6 {text-align: center; font-size: 22px; font-family: sans-serif; color: rgb(255, 255, 255);}
+.cor6 {text-align: center; font-size: 22px; font-family: sans-serif; color: rgb(255, 255, 255); padding: 1%;}
 .cor7 {text-align: center; background-color: rgb(80 14 102);}
 .cor2 {vertical-align: top; text-align: center; background-color: rgb(80 14 102);}
 .cor1 {background-color: rgb(121 63 152);}
